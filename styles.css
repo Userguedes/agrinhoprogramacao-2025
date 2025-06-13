@@ -14,7 +14,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #8f8800; /* Cor escura para o cabeçalho */
+    background-color: #005812; /* Cor escura para o cabeçalho */
     color: white;
     padding: 20px 0;
 }
@@ -76,7 +76,7 @@ header nav ul li a:hover {
 
 /* Estilo para a Seção Campo */
 .campo {
-    background-color: #d4f1c6;
+    background-color: #9afd68;
 }
 
 /* Estilo para a Seção Cidade */
@@ -92,7 +92,7 @@ header nav ul li a:hover {
 
 /* Rodapé */
 footer {
-    background-color: #34495e; /* Cor escura para o rodapé */
+    background-color: #005812; /* Cor escura para o rodapé */
     color: white;
     padding: 20px 0;
     text-align: center;
